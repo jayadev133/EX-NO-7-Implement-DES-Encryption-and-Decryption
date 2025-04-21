@@ -78,10 +78,8 @@ int main() {
 }
 ```
 ## Output:
-```
 ![Screenshot 2025-04-21 151538](https://github.com/user-attachments/assets/2bf38c76-572a-40db-8340-19d388c2e19d)
 
 
-```
 ## Result:
 The program was successfully executed. The implementation demonstrated the process of symmetric key encryption and decryption using a simplified XOR-based algorithm to simulate the working of DES. The original message was encrypted using a user-provided key, and the ciphertext was displayed in hexadecimal format. The encrypted message was then successfully decrypted back to the original plaintext, validating the correctness of the encryption-decryption process.
